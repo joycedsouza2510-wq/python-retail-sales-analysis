@@ -4,6 +4,7 @@
 This project explores retail sales data using Python to understand sales performance, product demand, and profitability. It follows a beginner-friendly data analytics workflow, from loading and inspecting data to calculating business KPIs and communicating insights.
 
 ## Objectives
+- Load and explore a retail sales dataset using Pandas.
 - Inspect data types, columns, and data quality.
 - Calculate revenue and profit.
 - Compare product and regional performance.
@@ -12,6 +13,7 @@ This project explores retail sales data using Python to understand sales perform
 ## Tools and Technologies
 - Python
 - Google Colab
+- Pandas
 - Matplotlib and Seaborn (planned)
 
 ## Project Workflow
@@ -29,8 +31,7 @@ The initial dataset is a small practice dataset created for learning. It contain
 In progress — data loading and initial exploration.
 
 ## Skills Demonstrated
-Python fundamentals, data inspection, KPI calculations, data cleaning, data visualisation, and business analysis.
-
+Python fundamentals, Pandas, data inspection, KPI calculations, data cleaning, data visualisation, and business analysis.
 
 ## Author
 Joyce De Souza
