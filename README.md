@@ -122,13 +122,26 @@ Upload the chart images to the `outputs` folder to display them in this section.
 
 ## Project Structure
 
-The repository contains the following files:
+python-retail-sales-analysis/
 
-- `README.md` — project overview, findings and documentation.
-- `retail_sales_analysis.ipynb` — Python analysis notebook.
-- `retail_sales.csv` — retail sales dataset.
-- `retail_sales_analysed.csv` — dataset with calculated analysis columns.
-- `outputs/` — folder containing charts and analysis results.
+README.md
+
+retail_sales_analysis.ipynb
+
+retail_sales_analysed.csv
+
+outputs/
+
+product_revenue.png
+
+regional_revenue.png
+
+product_profit.png
+
+product_analysis.csv
+
+region_analysis.csv
+
 
 ## How to Run the Project
 
