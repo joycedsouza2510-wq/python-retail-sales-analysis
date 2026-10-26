@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Unit_Price,Cost_Per_Unit,Region,Sales,Profit
+1001,Television,Electronics,2,820,600,Dublin,1640,440
+1002,Soundbars,Accessories,5,120,12,Cork,600,540
+1003,HDMI cables,Accessories,3,75,20,Galway,225,165
+1004,signal boosters,Accessories,1,220,150,Dublin,220,70
+1005,Television,Electronics,1,820,600,Cork,820,220
+1006,Soundbars,Accessories,10,120,12,Dublin,1200,1080
+1007,signal boosters,Accessories,2,220,150,Galway,440,140
+1008,HDMI cables,Accessories,4,75,20,Cork,300,220
+1009,Television,Electronics,3,820,600,Dublin,2460,660
+1010,Soundbars,Accessories,6,120,12,Galway,720,648
